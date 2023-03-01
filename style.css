@@ -1,0 +1,100 @@
+.content a{
+width: 12%;
+padding: 12px;
+float: left;
+display: flex;
+justify-content: space-between;
+
+}
+.content h2{
+font-size: 40px;
+color: black;
+margin-left: 20%;
+
+}
+.content p{
+margin-left: 20%;
+
+}
+#pull{
+background-color: black;
+margin-left: 15%;
+margin-top: 0%;
+color: white;
+
+}
+#land{
+width: 400px;
+height: 350px;
+float: right;
+padding: 0px 5px 0px;
+margin-bottom: 70%;
+margin-left: 8%;
+margin-right: 10%;
+
+
+
+}
+#danil{
+width: 350px;
+height: 300px;
+margin-left: 20%;
+
+
+
+}
+.img{
+    width: 300px;
+    height: 400px;
+    margin-left: 20%;
+    
+    }
+.image2 {
+    margin-left: 20%;
+    width: 300px;
+    height: 250px;
+    display: flex;
+    
+}
+#content2 h3{
+    margin-left: 20%;
+    font-size: 30px;
+}
+.con h4{
+margin: 20%;
+font-size: 10px;
+
+}
+.content2{
+    display: flex;
+    justify-content: space-between;
+   
+}
+#red{
+margin-left: 20%;
+justify-content: space-between;
+
+}
+#best{
+margin-left: 20%;
+font-size: 40px;
+
+}
+.dev{
+margin-left: 20%;
+display: flex;
+
+}
+#help{
+    margin-left: 20%;
+    font-size: 30px;
+}
+.web{
+margin-left: 20%;
+
+
+}
+.web2{
+margin-left: 20%;
+
+}
